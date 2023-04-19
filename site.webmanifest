@@ -1,0 +1,23 @@
+   {
+    "name": "Historically",
+    "short_name": "Historically",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Ufc9YzzTIS_QXkC9uokGNPfPqUwoPxjgN78wIpz2DLt5LNQkHjszHAjLWo4UAwtHZw6HaDuAO8lTIJ-Sr4GrkuoiuSXF9NixzHw0OArITlCqtEO9g2HgD8BqEUfK3CJUcDyYCG6VuLgDot02JshZHQjhDNiCes3VE9j4Ry4sudvNd2i-Wc5GRZa9vQ/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Scpy8NTwkel596QESdWcAdBuubE4_TNXFyEsvKAjm8TQ2BBkrOvMlSVP3RpqeqSktUS1CNFlbZdkZF23dMu1dRSkLeovDcQeANX4IRD7y94oWUVwPcBwMUTgLunLcI_-a8Fok5VcVWBZ1vTFVk39nyNuWrV-N5MtCif1XED5z2Clkn3zJAvrTW6yaA/s16000/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.historically.info"
+}
